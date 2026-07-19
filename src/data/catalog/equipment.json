@@ -1,0 +1,911 @@
+[
+  {
+    "id": "eq-cat-248",
+    "slug": "cat-248-skid-steer",
+    "name": "Мини-погрузчик CAT 248, с боковым поворотом",
+    "brand": "Caterpillar",
+    "model": "248",
+    "categorySlug": "snow-removal",
+    "price": { "amount": 16000, "currency": "RUB", "unit": "shift", "hourly": 2000, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/cat-248-skid-steer.jpg",
+    "specs": [
+      { "label": "Эксплуатационная масса", "value": "3.3", "unit": "т" },
+      { "label": "Грузоподъёмность", "value": "0.97", "unit": "т" }
+    ],
+    "description": "Мини-погрузчик с боковым поворотом для перемещения и погрузки сыпучих, кусковых и штучных грузов при транспортно-складских работах."
+  },
+  {
+    "id": "eq-dz-122",
+    "slug": "dz-122-grader",
+    "name": "Автогрейдер ДЗ-122",
+    "brand": "ДЗ",
+    "model": "122",
+    "categorySlug": "snow-removal",
+    "price": { "amount": 24000, "currency": "RUB", "unit": "shift", "hourly": 3000, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/dz-122-grader.jpg",
+    "specs": [
+      { "label": "Ширина отвала", "value": "2.7", "unit": "м" },
+      { "label": "Вес", "value": "13 800", "unit": "кг" }
+    ],
+    "description": "Самоходная машина с полноповоротным отвалом под углом к направлению движения — для планировки, профилирования и уборки снега."
+  },
+  {
+    "id": "eq-mtz-82",
+    "slug": "mtz-82-tractor",
+    "name": "Трактор МТЗ-82 со щёткой",
+    "brand": "МТЗ",
+    "model": "82",
+    "categorySlug": "snow-removal",
+    "price": { "amount": 14000, "currency": "RUB", "unit": "shift", "hourly": 1750, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/mtz-82-tractor.jpg",
+    "specs": [
+      { "label": "Длина", "value": "3930 (5480 со щёткой)", "unit": "мм" },
+      { "label": "Ширина", "value": "1970 (2257 со щёткой)", "unit": "мм" }
+    ],
+    "description": "Полноприводный универсальный трактор с увеличенной кабиной — уборка и подметание территорий, вывоз снега."
+  },
+  {
+    "id": "eq-jcb-4cx",
+    "slug": "jcb-4cx",
+    "name": "Экскаватор-погрузчик JCB 4CX",
+    "brand": "JCB",
+    "model": "4CX",
+    "categorySlug": "excavator-loaders",
+    "price": { "amount": 22000, "currency": "RUB", "unit": "shift", "hourly": 2750, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/jcb-4cx.jpg",
+    "specs": [
+      { "label": "Габариты Д×Ш×В", "value": "5910×2260×3540", "unit": "мм" },
+      { "label": "Эксплуатационная масса", "value": "8660", "unit": "кг" },
+      { "label": "Объём фронтального ковша", "value": "1.3", "unit": "м³" },
+      { "label": "Объём заднего ковша", "value": "0.28", "unit": "м³" },
+      { "label": "Глубина копания", "value": "5.46", "unit": "м" }
+    ],
+    "description": "Самая мощная модель в линейке экскаваторов-погрузчиков JCB. Погрузка, земляные работы, дорожное и коммунальное строительство."
+  },
+  {
+    "id": "eq-sany-bhl105",
+    "slug": "sany-bhl105",
+    "name": "Экскаватор-погрузчик Sany BHL105",
+    "brand": "Sany",
+    "model": "BHL105",
+    "categorySlug": "excavator-loaders",
+    "price": { "amount": 22000, "currency": "RUB", "unit": "shift", "hourly": 2750, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/sany-bhl105.jpg",
+    "specs": [
+      { "label": "Габариты Д×Ш×В", "value": "5980×2430×2780", "unit": "мм" },
+      { "label": "Эксплуатационная масса", "value": "7600", "unit": "кг" },
+      { "label": "Объём фронтального ковша", "value": "1.2–1.5", "unit": "м³" },
+      { "label": "Высота выгрузки погрузчика", "value": "4000–4500", "unit": "мм" }
+    ],
+    "description": "Универсальный экскаватор-погрузчик для погрузочно-разгрузочных и земляных работ на объекте."
+  },
+  {
+    "id": "eq-jcb-3cx",
+    "slug": "jcb-3cx",
+    "name": "Экскаватор-погрузчик JCB 3CX",
+    "brand": "JCB",
+    "model": "3CX",
+    "categorySlug": "excavator-loaders",
+    "price": { "amount": 22000, "currency": "RUB", "unit": "shift", "hourly": 2750, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/jcb-3cx.jpg",
+    "specs": [
+      { "label": "Габариты Д×Ш×В", "value": "5910×2230×3480", "unit": "мм" },
+      { "label": "Эксплуатационная масса", "value": "8425", "unit": "кг" },
+      { "label": "Объём фронтального ковша", "value": "1.19", "unit": "м³" },
+      { "label": "Объём заднего ковша", "value": "0.28", "unit": "м³" },
+      { "label": "Глубина копания", "value": "5.93", "unit": "м" }
+    ],
+    "description": "Самая популярная модель из линейки JCB. Земляные работы, погрузка, разгрузка и перевозка на стеснённых площадках."
+  },
+  {
+    "id": "eq-volvo-bl71b",
+    "slug": "volvo-bl71b",
+    "name": "Экскаватор-погрузчик Volvo BL71B",
+    "brand": "Volvo",
+    "model": "BL71B",
+    "categorySlug": "excavator-loaders",
+    "price": { "amount": 22000, "currency": "RUB", "unit": "shift", "hourly": 2750, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/volvo-bl71b.jpg",
+    "specs": [
+      { "label": "Объём ковша", "value": "1", "unit": "м³" },
+      { "label": "Объём обратного ковша", "value": "0.35", "unit": "м³" }
+    ],
+    "description": "Максимальная гибкость в широком спектре задач: погрузка, рытьё траншей и перемещение материалов."
+  },
+  {
+    "id": "eq-doosan-dx225lca",
+    "slug": "doosan-dx225lca",
+    "name": "Гусеничный экскаватор Doosan DX225LCA",
+    "brand": "Doosan",
+    "model": "DX225LCA",
+    "categorySlug": "crawler-excavators",
+    "price": { "amount": 22000, "currency": "RUB", "unit": "shift", "hourly": 2750, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/doosan-dx225lca.jpg",
+    "specs": [
+      { "label": "Длина", "value": "9500", "unit": "мм" },
+      { "label": "Ширина", "value": "2990", "unit": "мм" },
+      { "label": "Глубина копания (макс.)", "value": "6620", "unit": "мм" },
+      { "label": "Радиус копания", "value": "15 379", "unit": "мм" },
+      { "label": "Объём ковша", "value": "0.81–1.17", "unit": "м³" }
+    ],
+    "description": "Надёжный гусеничный экскаватор для тяжёлых земляных работ. Одна из самых популярных моделей Doosan.",
+    "featured": true
+  },
+  {
+    "id": "eq-hitachi-zx200-3",
+    "slug": "hitachi-zx200-3",
+    "name": "Гусеничный экскаватор Hitachi ZX200-3",
+    "brand": "Hitachi",
+    "model": "ZX200-3",
+    "categorySlug": "crawler-excavators",
+    "price": { "amount": 22000, "currency": "RUB", "unit": "shift", "hourly": 2750, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/hitachi-zx200-3.jpg",
+    "specs": [
+      { "label": "Мощность двигателя", "value": "90.2", "unit": "кВт" },
+      { "label": "Эксплуатационная масса", "value": "19 800", "unit": "кг" },
+      { "label": "Вместимость ковша", "value": "0.51–1.2", "unit": "м³" },
+      { "label": "Глубина копания", "value": "6050", "unit": "мм" },
+      { "label": "Усилие на ковше", "value": "122", "unit": "кН" }
+    ],
+    "description": "Четырёхтактный шестицилиндровый двигатель, реверсивные гусеницы и пылезащищённые соединения — экскаватор для интенсивной работы."
+  },
+  {
+    "id": "eq-sunward-swe210",
+    "slug": "sunward-swe210",
+    "name": "Гусеничный экскаватор Sunward SWE210",
+    "brand": "Sunward",
+    "model": "SWE210",
+    "categorySlug": "crawler-excavators",
+    "price": { "amount": 22000, "currency": "RUB", "unit": "shift", "hourly": 2750, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/sunward-swe210.jpg",
+    "specs": [
+      { "label": "Мощность двигателя", "value": "110", "unit": "кВт" },
+      { "label": "Эксплуатационная масса", "value": "21 300", "unit": "кг" },
+      { "label": "Вместимость ковша", "value": "1", "unit": "м³" },
+      { "label": "Глубина копания", "value": "6090", "unit": "мм" },
+      { "label": "Усилие на ковше", "value": "110", "unit": "кН" }
+    ],
+    "description": "Гусеничный экскаватор для земляных работ и разработки грунта на объектах любой сложности."
+  },
+  {
+    "id": "eq-isuzu-elf-drill",
+    "slug": "isuzu-elf-drill",
+    "name": "Ямобур Isuzu ELF",
+    "brand": "Isuzu",
+    "model": "ELF",
+    "categorySlug": "drilling-rigs",
+    "price": { "amount": 28000, "currency": "RUB", "unit": "shift", "hourly": 3500, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/isuzu-elf-drill.jpg",
+    "specs": [
+      { "label": "Эксплуатационная масса", "value": "6615", "unit": "кг" },
+      { "label": "Максимальный вылет стрелы", "value": "12", "unit": "м" },
+      { "label": "Максимальная глубина бурения", "value": "15", "unit": "м" },
+      { "label": "Диаметр бурения", "value": "150–1200", "unit": "мм" }
+    ],
+    "description": "Бурильно-крановая установка для устройства свайных и столбчатых фундаментов, опор и ограждений."
+  },
+  {
+    "id": "eq-gaz-3308-drill",
+    "slug": "gaz-3308-drill",
+    "name": "Ямобур ГАЗ-3308",
+    "brand": "ГАЗ",
+    "model": "3308",
+    "categorySlug": "drilling-rigs",
+    "price": { "amount": 30000, "currency": "RUB", "unit": "shift", "hourly": 3750, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/gaz-3308-drill.jpg",
+    "specs": [
+      { "label": "Диаметр бурения", "value": "200–600", "unit": "мм" },
+      { "label": "Колёсная формула", "value": "4×2", "unit": "" }
+    ],
+    "description": "Ямобур с отличным соотношением цена/качество: надёжность, работа в любых метеоусловиях и хорошая манёвренность."
+  },
+  {
+    "id": "eq-hyundai-hl770",
+    "slug": "hyundai-hl770",
+    "name": "Фронтальный погрузчик Hyundai HL770",
+    "brand": "Hyundai",
+    "model": "HL770",
+    "categorySlug": "front-loaders",
+    "price": { "amount": 24000, "currency": "RUB", "unit": "shift", "hourly": 3000, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/hyundai-hl770.jpg",
+    "specs": [
+      { "label": "Объём ковша", "value": "3.5", "unit": "м³" },
+      { "label": "Грузоподъёмность", "value": "11", "unit": "т" }
+    ],
+    "description": "Механизация погрузочно-разгрузочных, землеройных и строительно-монтажных работ в промышленном и дорожном строительстве.",
+    "featured": true
+  },
+  {
+    "id": "eq-sdlg-lg933l",
+    "slug": "sdlg-lg933l",
+    "name": "Фронтальный погрузчик SDLG LG933L",
+    "brand": "SDLG",
+    "model": "LG933L",
+    "categorySlug": "front-loaders",
+    "price": { "amount": 20000, "currency": "RUB", "unit": "shift", "hourly": 2500, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/sdlg-lg933l.jpg",
+    "specs": [
+      { "label": "Объём ковша", "value": "1.8", "unit": "м³" },
+      { "label": "Грузоподъёмность", "value": "3", "unit": "т" }
+    ],
+    "description": "Транспортировка грузов на малые расстояния, погрузочно-разгрузочные, такелажные и общестроительные работы."
+  },
+  {
+    "id": "eq-bobcat-milling",
+    "slug": "bobcat-milling",
+    "name": "Дорожная фреза Bobcat",
+    "brand": "Bobcat",
+    "categorySlug": "road-milling",
+    "price": { "amount": 28000, "currency": "RUB", "unit": "shift", "hourly": 3500, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/bobcat-milling.jpg",
+    "specs": [
+      { "label": "Ширина фрезерования", "value": "до 600", "unit": "мм" },
+      { "label": "Глубина фрезерования", "value": "до 150", "unit": "мм" },
+      { "label": "Производительность", "value": "40", "unit": "м²/ч" },
+      { "label": "Вес", "value": "3800", "unit": "кг" },
+      { "label": "Тип хода", "value": "колёсный", "unit": "" }
+    ],
+    "description": "Холодное фрезерование повреждённого асфальтобетона при ямочном ремонте. Боковое смещение для работы у бордюров, пылеподавление водой."
+  },
+  {
+    "id": "eq-wirtgen-w2000",
+    "slug": "wirtgen-w2000",
+    "name": "Дорожная фреза Wirtgen W2000",
+    "brand": "Wirtgen",
+    "model": "W2000",
+    "categorySlug": "road-milling",
+    "price": { "amount": 0, "currency": "RUB", "unit": "shift" },
+    "availability": "on_request",
+    "image": "/images/catalog/wirtgen-w2000.jpg",
+    "specs": [
+      { "label": "Ширина фрезерования", "value": "2000", "unit": "мм" },
+      { "label": "Глубина фрезерования", "value": "320", "unit": "мм" },
+      { "label": "Рабочая скорость", "value": "0–84", "unit": "м/мин" },
+      { "label": "Эксплуатационная масса", "value": "30 000", "unit": "кг" },
+      { "label": "Тип хода", "value": "гусеничный", "unit": "" }
+    ],
+    "description": "Профессиональная дорожная фреза для снятия изношенного покрытия большими картами при капитальном ремонте дорог."
+  },
+  {
+    "id": "eq-lowboy-20t",
+    "slug": "lowboy-20t",
+    "name": "Трал низкорамный, до 20 т",
+    "categorySlug": "lowboy-trailers",
+    "price": { "amount": 0, "currency": "RUB", "unit": "shift" },
+    "availability": "on_request",
+    "image": "/images/catalog/lowboy-20t.jpg",
+    "specs": [{ "label": "Грузоподъёмность", "value": "до 20", "unit": "т" }],
+    "description": "Перевозка габаритных грузов и спецтехники по городу. Доставка за пределы КАД рассчитывается отдельно."
+  },
+  {
+    "id": "eq-lowboy-56t",
+    "slug": "lowboy-56t",
+    "name": "Трал низкорамный, до 56 т",
+    "categorySlug": "lowboy-trailers",
+    "price": { "amount": 0, "currency": "RUB", "unit": "shift" },
+    "availability": "on_request",
+    "image": "/images/catalog/lowboy-56t.jpg",
+    "specs": [{ "label": "Грузоподъёмность", "value": "до 56", "unit": "т" }],
+    "description": "Перевозка тяжёлой и крупногабаритной техники. Доставка за пределы КАД рассчитывается отдельно."
+  },
+  {
+    "id": "eq-jcb-515-40",
+    "slug": "jcb-515-40",
+    "name": "Телескопический погрузчик JCB 515-40",
+    "brand": "JCB",
+    "model": "515-40",
+    "categorySlug": "telehandlers",
+    "price": { "amount": 25000, "currency": "RUB", "unit": "shift", "hourly": 3125, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/jcb-515-40.jpg",
+    "specs": [
+      { "label": "Эксплуатационная масса", "value": "3500", "unit": "кг" },
+      { "label": "Грузоподъёмность", "value": "1.5", "unit": "т" },
+      { "label": "Мощность двигателя", "value": "50", "unit": "л.с." },
+      { "label": "Максимальный вылет стрелы", "value": "4", "unit": "м" }
+    ],
+    "description": "Компактный и манёвренный Loadall с постоянным полным приводом — погрузка и подача материалов в стеснённых условиях."
+  },
+  {
+    "id": "eq-merlo-roto-38-16",
+    "slug": "merlo-roto-38-16",
+    "name": "Телескопический погрузчик Merlo Roto 38.16",
+    "brand": "Merlo",
+    "model": "Roto 38.16",
+    "categorySlug": "telehandlers",
+    "price": { "amount": 26000, "currency": "RUB", "unit": "shift", "hourly": 3250, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/merlo-roto-38-16.jpg",
+    "specs": [
+      { "label": "Эксплуатационная масса", "value": "11 800", "unit": "кг" },
+      { "label": "Грузоподъёмность", "value": "3.8", "unit": "т" },
+      { "label": "Мощность двигателя", "value": "99", "unit": "л.с." },
+      { "label": "Максимальный вылет стрелы", "value": "16", "unit": "м" }
+    ],
+    "description": "Поворотная башня 360°, двухступенчатая гидротрансмиссия и кабина FOPS — для монтажных работ на высоте."
+  },
+  {
+    "id": "eq-shacman-x3000-6x4",
+    "slug": "shacman-x3000-6x4",
+    "name": "Самосвал Shacman X3000, 6×4",
+    "brand": "Shacman",
+    "model": "X3000 6×4",
+    "categorySlug": "dump-trucks",
+    "price": { "amount": 20000, "currency": "RUB", "unit": "shift", "hourly": 2500, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/shacman-x3000-6x4.jpg",
+    "specs": [
+      { "label": "Объём кузова", "value": "26", "unit": "м³" },
+      { "label": "Размеры кузова Д×Ш×В", "value": "5550×2280×1500", "unit": "мм" },
+      { "label": "Грузоподъёмность", "value": "31 000", "unit": "кг" },
+      { "label": "Колёсная формула", "value": "6×4", "unit": "" }
+    ],
+    "description": "Самосвал для перевозки сыпучих и навалочных грузов, вывоза грунта и снега на объектах строительства.",
+    "featured": true
+  },
+  {
+    "id": "eq-shacman-x3000-8x4",
+    "slug": "shacman-x3000-8x4",
+    "name": "Самосвал Shacman X3000, 8×4",
+    "brand": "Shacman",
+    "model": "X3000 8×4",
+    "categorySlug": "dump-trucks",
+    "price": { "amount": 22000, "currency": "RUB", "unit": "shift", "hourly": 2750, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/shacman-x3000-8x4.jpg",
+    "specs": [
+      { "label": "Объём кузова", "value": "35", "unit": "м³" },
+      { "label": "Размеры кузова Д×Ш×В", "value": "7600×2300×1500+500", "unit": "мм" },
+      { "label": "Грузоподъёмность", "value": "41 000", "unit": "кг" },
+      { "label": "Колёсная формула", "value": "8×4", "unit": "" }
+    ],
+    "description": "Тяжёлый самосвал увеличенного объёма для крупных строительных и карьерных перевозок."
+  },
+  {
+    "id": "eq-kamaz-65222",
+    "slug": "kamaz-65222",
+    "name": "Самосвал КАМАЗ-65222, вездеход",
+    "brand": "КАМАЗ",
+    "model": "65222",
+    "categorySlug": "dump-trucks",
+    "price": { "amount": 22000, "currency": "RUB", "unit": "shift", "hourly": 2750, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/kamaz-65222.jpg",
+    "specs": [
+      { "label": "Объём кузова", "value": "20", "unit": "м³" },
+      { "label": "Грузоподъёмность", "value": "20", "unit": "т" },
+      { "label": "Колёсная формула", "value": "6×6", "unit": "" }
+    ],
+    "description": "Полноприводный большегрузный самосвал с задней разгрузкой — уверенно работает на бездорожье и слабых грунтах."
+  },
+  {
+    "id": "eq-chzpt-992206",
+    "slug": "chzpt-992206",
+    "name": "Панелевоз ЧЗПТ 992206, кассетный",
+    "brand": "ЧЗПТ",
+    "model": "992206",
+    "categorySlug": "panel-carriers",
+    "price": { "amount": 0, "currency": "RUB", "unit": "shift" },
+    "availability": "on_request",
+    "image": "/images/catalog/chzpt-992206.jpg",
+    "specs": [{ "label": "Рабочая площадка", "value": "7480×1600", "unit": "мм" }],
+    "description": "Полуприцеп-панелевоз кассетного типа: повышенная прочность и грузоподъёмность, адаптация под негабаритные панели."
+  },
+  {
+    "id": "eq-hitachi-zx40-mini",
+    "slug": "hitachi-zx40-mini",
+    "name": "Мини-экскаватор Hitachi ZX40",
+    "brand": "Hitachi",
+    "model": "ZX40",
+    "categorySlug": "mini-excavators",
+    "price": { "amount": 18000, "currency": "RUB", "unit": "shift", "hourly": 2250, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/hitachi-zx40-mini.jpg",
+    "specs": [
+      { "label": "Объём ковша", "value": "0.17", "unit": "м³" },
+      { "label": "Глубина копания", "value": "3.7", "unit": "м" }
+    ],
+    "description": "Компактный экскаватор для работы в подвалах, на этажах, в портах и других стеснённых условиях."
+  },
+  {
+    "id": "eq-volvo-ec55",
+    "slug": "volvo-ec55",
+    "name": "Мини-экскаватор Volvo EC55",
+    "brand": "Volvo",
+    "model": "EC55",
+    "categorySlug": "mini-excavators",
+    "price": { "amount": 19000, "currency": "RUB", "unit": "shift", "hourly": 2375, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/volvo-ec55.jpg",
+    "specs": [
+      { "label": "Объём ковша", "value": "0.26", "unit": "м³" },
+      { "label": "Глубина копания", "value": "4.4", "unit": "м" }
+    ],
+    "description": "Безопасный и экономичный компактный экскаватор с просторной кабиной и высоким усилием отрыва."
+  },
+  {
+    "id": "eq-sunward-swl3220",
+    "slug": "sunward-swl3220",
+    "name": "Мини-погрузчик Sunward SWL3220",
+    "brand": "Sunward",
+    "model": "SWL3220",
+    "categorySlug": "mini-loaders",
+    "price": { "amount": 16000, "currency": "RUB", "unit": "shift", "hourly": 2000, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/sunward-swl3220.jpg",
+    "specs": [
+      { "label": "Эксплуатационная масса", "value": "3500", "unit": "кг" },
+      { "label": "Грузоподъёмность", "value": "1200", "unit": "кг" },
+      { "label": "Объём ковша", "value": "0.53", "unit": "м³" },
+      { "label": "Мощность двигателя", "value": "54.6", "unit": "кВт" },
+      { "label": "Тип хода", "value": "колёсный", "unit": "" }
+    ],
+    "description": "Манёвренный мини-погрузчик с быстросменным навесным: ковш, паллетные вилы, щётка, гидромолот."
+  },
+  {
+    "id": "eq-sunward-swe4528",
+    "slug": "sunward-swe4528",
+    "name": "Мини-экскаватор Sunward SWE4528",
+    "brand": "Sunward",
+    "model": "SWE4528",
+    "categorySlug": "mini-loaders",
+    "price": { "amount": 22000, "currency": "RUB", "unit": "shift", "hourly": 2750, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/sunward-swe4528.jpg",
+    "specs": [
+      { "label": "Эксплуатационная масса", "value": "4850", "unit": "кг" },
+      { "label": "Мощность двигателя", "value": "36–39", "unit": "кВт" },
+      { "label": "Объём ковша", "value": "0.15–0.18", "unit": "м³" },
+      { "label": "Глубина копания", "value": "3.6–3.8", "unit": "м" },
+      { "label": "Тип хода", "value": "гусеничный", "unit": "" }
+    ],
+    "description": "Гусеничный мини-экскаватор с низким давлением на грунт — работает на слабых грунтах и в ограниченном пространстве."
+  },
+  {
+    "id": "eq-mercedes-actros-manip",
+    "slug": "mercedes-actros-manip",
+    "name": "Манипулятор Mercedes Actros, борт 9 м",
+    "brand": "Mercedes-Benz",
+    "model": "Actros",
+    "categorySlug": "manipulators",
+    "price": { "amount": 22000, "currency": "RUB", "unit": "shift", "hourly": 2750, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/mercedes-actros-manip.jpg",
+    "specs": [
+      { "label": "Длина борта", "value": "13.6", "unit": "м" },
+      { "label": "Тоннаж борта", "value": "20", "unit": "т" },
+      { "label": "Длина стрелы", "value": "22", "unit": "м" },
+      { "label": "Грузоподъёмность стрелы", "value": "7", "unit": "т" }
+    ],
+    "description": "Универсальная техника «кран + грузовик»: быстрая погрузка, перевозка и монтаж оборудования на объекте."
+  },
+  {
+    "id": "eq-kamaz-43118-manip",
+    "slug": "kamaz-43118-manip",
+    "name": "Манипулятор КАМАЗ-43118, вездеход",
+    "brand": "КАМАЗ",
+    "model": "43118",
+    "categorySlug": "manipulators",
+    "price": { "amount": 28000, "currency": "RUB", "unit": "shift", "hourly": 3500, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/kamaz-43118-manip.jpg",
+    "specs": [
+      { "label": "Длина борта", "value": "6.1", "unit": "м" },
+      { "label": "Грузоподъёмность борта", "value": "10", "unit": "т" },
+      { "label": "Длина стрелы", "value": "18.7", "unit": "м" },
+      { "label": "Грузоподъёмность стрелы", "value": "7", "unit": "т" }
+    ],
+    "description": "Полноприводный манипулятор с КМУ Fassi — работа на бездорожье и ниже уровня стоянки (фундаменты, колодцы)."
+  },
+  {
+    "id": "eq-airman-pds70s",
+    "slug": "airman-pds70s",
+    "name": "Компрессор Airman PDS70S",
+    "brand": "Airman",
+    "model": "PDS70S",
+    "categorySlug": "compressors",
+    "price": { "amount": 0, "currency": "RUB", "unit": "shift" },
+    "availability": "on_request",
+    "image": "/images/catalog/airman-pds70s.jpg",
+    "specs": [
+      { "label": "Производительность", "value": "2.0", "unit": "м³/мин" },
+      { "label": "Рабочее давление", "value": "7.0", "unit": "кг/см²" },
+      { "label": "Двигатель", "value": "23", "unit": "л.с." },
+      { "label": "Вес", "value": "475", "unit": "кг" }
+    ],
+    "description": "Дизельный компрессор с низким уровнем шума, защитой от перегрева и низким расходом топлива."
+  },
+  {
+    "id": "eq-airman-pds100s",
+    "slug": "airman-pds100s",
+    "name": "Компрессор Airman PDS100S",
+    "brand": "Airman",
+    "model": "PDS100S",
+    "categorySlug": "compressors",
+    "price": { "amount": 0, "currency": "RUB", "unit": "shift" },
+    "availability": "on_request",
+    "image": "/images/catalog/airman-pds100s.jpg",
+    "specs": [
+      { "label": "Производительность", "value": "2.5", "unit": "м³/мин" },
+      { "label": "Рабочее давление", "value": "7.0", "unit": "кг/см²" },
+      { "label": "Двигатель", "value": "26", "unit": "л.с." },
+      { "label": "Вес", "value": "505", "unit": "кг" }
+    ],
+    "description": "Винтовой дизельный компрессор Airman: автоматическая регулировка давления и аварийное отключение."
+  },
+  {
+    "id": "eq-case-wx170",
+    "slug": "case-wx170",
+    "name": "Колёсный экскаватор Case WX170",
+    "brand": "Case",
+    "model": "WX170",
+    "categorySlug": "wheeled-excavators",
+    "price": { "amount": 23000, "currency": "RUB", "unit": "shift", "hourly": 2875, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/case-wx170.jpg",
+    "specs": [
+      { "label": "Полезная мощность двигателя", "value": "105", "unit": "кВт" },
+      { "label": "Объём ковша", "value": "0.9", "unit": "м³" },
+      { "label": "Глубина копания", "value": "6", "unit": "м" },
+      { "label": "Эксплуатационная масса", "value": "17 850", "unit": "кг" },
+      { "label": "Габариты Д×Ш×В", "value": "8720×2540×3100", "unit": "мм" }
+    ],
+    "description": "Полноповоротный экскаватор на пневмоколёсном ходу: котлованы, траншеи и подготовка грунта под коммуникации."
+  },
+  {
+    "id": "eq-jcb-js200w",
+    "slug": "jcb-js200w",
+    "name": "Колёсный экскаватор JCB JS200W",
+    "brand": "JCB",
+    "model": "JS200W",
+    "categorySlug": "wheeled-excavators",
+    "price": { "amount": 24000, "currency": "RUB", "unit": "shift", "hourly": 3000, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/jcb-js200w.jpg",
+    "specs": [
+      { "label": "Полезная мощность двигателя", "value": "125", "unit": "кВт" },
+      { "label": "Объём ковша", "value": "1", "unit": "м³" },
+      { "label": "Глубина копания", "value": "5.3", "unit": "м" },
+      { "label": "Эксплуатационная масса", "value": "20 450", "unit": "кг" },
+      { "label": "Габариты Д×Ш×В", "value": "9450×2500×3150", "unit": "мм" }
+    ],
+    "description": "Полноприводный колёсный экскаватор 4×4 для погрузочно-разгрузочных и землеройных работ в городе."
+  },
+  {
+    "id": "eq-bomag-bw215-d4",
+    "slug": "bomag-bw215-d4",
+    "name": "Грунтовый каток Bomag BW215 D-4",
+    "brand": "Bomag",
+    "model": "BW215 D-4",
+    "categorySlug": "soil-rollers",
+    "price": { "amount": 24000, "currency": "RUB", "unit": "shift", "hourly": 3000, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/bomag-bw215-d4.jpg",
+    "specs": [
+      { "label": "Эксплуатационная масса", "value": "15 700", "unit": "кг" },
+      { "label": "Ширина вальца", "value": "2130", "unit": "мм" },
+      { "label": "Глубина уплотнения", "value": "50", "unit": "см" },
+      { "label": "Тип вальца", "value": "гладкий", "unit": "" }
+    ],
+    "description": "Популярный грунтовый каток с гидростатическим приводом, самоблокирующимся дифференциалом и отапливаемой кабиной."
+  },
+  {
+    "id": "eq-bomag-bw219-dh4",
+    "slug": "bomag-bw219-dh4",
+    "name": "Грунтовый каток Bomag BW219 DH-4",
+    "brand": "Bomag",
+    "model": "BW219 DH-4",
+    "categorySlug": "soil-rollers",
+    "price": { "amount": 26000, "currency": "RUB", "unit": "shift", "hourly": 3250, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/bomag-bw219-dh4.jpg",
+    "specs": [
+      { "label": "Эксплуатационная масса", "value": "19 200", "unit": "кг" },
+      { "label": "Ширина вальца", "value": "2130", "unit": "мм" },
+      { "label": "Глубина уплотнения", "value": "100", "unit": "см" }
+    ],
+    "description": "Тяжёлый каток для уплотнения грунта, гравия и песка на крупных объектах. Системы ECOMODE и EVIB контролируют плотность."
+  },
+  {
+    "id": "eq-flatbed-offroad-12m",
+    "slug": "flatbed-offroad-12m",
+    "name": "Длинномер-вездеход, 12 м",
+    "categorySlug": "flatbed-trucks",
+    "price": { "amount": 0, "currency": "RUB", "unit": "shift" },
+    "availability": "on_request",
+    "image": "/images/catalog/flatbed-offroad-12m.jpg",
+    "specs": [
+      { "label": "Платформа Д×Ш×В", "value": "12000×2450×1350", "unit": "мм" },
+      { "label": "Полная масса автопоезда", "value": "25 000", "unit": "кг" },
+      { "label": "Высота борта", "value": "0.6", "unit": "м" }
+    ],
+    "description": "Перевозка длинномерных грузов: арматура, дерево, плиты, спецтехника. Откидные борта для погрузки манипулятором."
+  },
+  {
+    "id": "eq-kamaz-flatbed-12m",
+    "slug": "kamaz-flatbed-12m",
+    "name": "Длинномер КАМАЗ, 12 м",
+    "brand": "КАМАЗ",
+    "categorySlug": "flatbed-trucks",
+    "price": { "amount": 0, "currency": "RUB", "unit": "shift" },
+    "availability": "on_request",
+    "image": "/images/catalog/kamaz-flatbed-12m.jpg",
+    "specs": [
+      { "label": "Платформа Д×Ш×В", "value": "12500×2500×1450", "unit": "мм" },
+      { "label": "Полная масса автопоезда", "value": "37 500", "unit": "кг" },
+      { "label": "Высота борта", "value": "0.7", "unit": "м" }
+    ],
+    "description": "Бортовой длинномер для перевозки строительных материалов и негабарита. Радиус разворота около 25 м."
+  },
+  {
+    "id": "eq-komatsu-d65e-12",
+    "slug": "komatsu-d65e-12",
+    "name": "Бульдозер Komatsu D65E-12",
+    "brand": "Komatsu",
+    "model": "D65E-12",
+    "categorySlug": "bulldozers",
+    "price": { "amount": 36000, "currency": "RUB", "unit": "shift", "hourly": 4500, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/komatsu-d65e-12.jpg",
+    "specs": [
+      { "label": "Масса", "value": "20", "unit": "т" },
+      { "label": "Ширина отвала", "value": "4.4", "unit": "м" }
+    ],
+    "description": "Перемещение больших объёмов грунта на малые расстояния: насыпи, профилирование дорог, планировка площадок."
+  },
+  {
+    "id": "eq-shantui-sd16l",
+    "slug": "shantui-sd16l",
+    "name": "Бульдозер Shantui SD16L, болотоход",
+    "brand": "Shantui",
+    "model": "SD16L",
+    "categorySlug": "bulldozers",
+    "price": { "amount": 32000, "currency": "RUB", "unit": "shift", "hourly": 4000, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/shantui-sd16l.jpg",
+    "specs": [
+      { "label": "Масса", "value": "18.46", "unit": "т" },
+      { "label": "Ширина отвала", "value": "4.15", "unit": "м" }
+    ],
+    "description": "Бульдозер-болотоход с уширенными гусеницами для земляных, строительных и планировочных работ на слабых грунтах."
+  },
+  {
+    "id": "eq-bomag-bw138-ac5",
+    "slug": "bomag-bw138-ac5",
+    "name": "Каток комбинированный Bomag BW138 AC-5",
+    "brand": "Bomag",
+    "model": "BW138 AC-5",
+    "categorySlug": "asphalt-group",
+    "price": { "amount": 28000, "currency": "RUB", "unit": "shift", "hourly": 3500, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/bomag-bw138-ac5.jpg",
+    "specs": [
+      { "label": "Рабочий вес", "value": "4200", "unit": "кг" },
+      { "label": "Мощность двигателя", "value": "33.3", "unit": "кВт" },
+      { "label": "Ширина вальца", "value": "1380", "unit": "мм" },
+      { "label": "Габариты Д×Ш×В", "value": "2840×1470×1900", "unit": "мм" }
+    ],
+    "description": "Комбинированный каток для ремонта тротуаров и дорожных покрытий: контроль вибрации и датчик температуры асфальта."
+  },
+  {
+    "id": "eq-hamm-hd90-4",
+    "slug": "hamm-hd90-4",
+    "name": "Каток дорожный Hamm HD90.4",
+    "brand": "Hamm",
+    "model": "HD90.4",
+    "categorySlug": "asphalt-group",
+    "price": { "amount": 32000, "currency": "RUB", "unit": "shift", "hourly": 4000, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/hamm-hd90-4.jpg",
+    "specs": [
+      { "label": "Рабочий вес", "value": "12 550", "unit": "кг" },
+      { "label": "Мощность двигателя", "value": "100", "unit": "кВт" },
+      { "label": "Ширина вальца", "value": "1780", "unit": "мм" },
+      { "label": "Габариты Д×Ш×В", "value": "4600×1810×3040", "unit": "мм" }
+    ],
+    "description": "Сочленённый каток с гладкими вальцами для строительства и ремонта дорог, укладки плит и парковок."
+  },
+  {
+    "id": "eq-vogele-super-800",
+    "slug": "vogele-super-800",
+    "name": "Асфальтоукладчик Vogele Super 800",
+    "brand": "Vogele",
+    "model": "Super 800",
+    "categorySlug": "asphalt-group",
+    "price": { "amount": 45000, "currency": "RUB", "unit": "shift", "hourly": 5625, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/vogele-super-800.jpg",
+    "specs": [
+      { "label": "Скорость укладки", "value": "60", "unit": "м/мин" },
+      { "label": "Вместимость бункера", "value": "5", "unit": "т" },
+      { "label": "Ширина гусеничной ленты", "value": "180", "unit": "мм" }
+    ],
+    "description": "Самый компактный укладчик в классе — для дорожек, велодорожек и проездов в узких дворах."
+  },
+  {
+    "id": "eq-vogele-super-1600-2",
+    "slug": "vogele-super-1600-2",
+    "name": "Асфальтоукладчик Vogele Super 1600-2",
+    "brand": "Vogele",
+    "model": "Super 1600-2",
+    "categorySlug": "asphalt-group",
+    "price": { "amount": 65000, "currency": "RUB", "unit": "shift", "hourly": 8125, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/vogele-super-1600-2.jpg",
+    "specs": [
+      { "label": "Скорость укладки", "value": "до 24", "unit": "м/мин" },
+      { "label": "Вместимость бункера", "value": "13", "unit": "т" },
+      { "label": "Ширина гусеничной ленты", "value": "305", "unit": "мм" }
+    ],
+    "description": "Укладка, распределение и первичное уплотнение асфальтобетона с электрообогревом плиты для равномерного нагрева."
+  },
+  {
+    "id": "eq-sany-stc250",
+    "slug": "sany-stc250",
+    "name": "Автокран Sany STC250, 25 т",
+    "brand": "Sany",
+    "model": "STC250T5-5R",
+    "categorySlug": "truck-cranes",
+    "price": { "amount": 28000, "currency": "RUB", "unit": "shift", "hourly": 3500, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/sany-stc250.jpg",
+    "specs": [
+      { "label": "Грузоподъёмность", "value": "25", "unit": "т" },
+      { "label": "Длина основной стрелы", "value": "41", "unit": "м" },
+      { "label": "Колёсная формула", "value": "6×6", "unit": "" },
+      { "label": "Полная масса", "value": "32 650", "unit": "кг" }
+    ],
+    "description": "Вездеходный автокран с телескопической стрелой 41 м и гуськом 8 м для монтажа и погрузочных работ.",
+    "featured": true
+  },
+  {
+    "id": "eq-ks-6476",
+    "slug": "ks-6476",
+    "name": "Автокран КС-6476, 32 т",
+    "brand": "КАМАЗ",
+    "model": "КС-6476",
+    "categorySlug": "truck-cranes",
+    "price": { "amount": 28000, "currency": "RUB", "unit": "shift", "hourly": 3500, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/ks-6476.jpg",
+    "specs": [
+      { "label": "Грузоподъёмность", "value": "32", "unit": "т" },
+      { "label": "Длина стрелы", "value": "31", "unit": "м" }
+    ],
+    "description": "Автокран на базе КАМАЗ с четырёхсекционной стрелой и защитой от опрокидывания — погрузка, монтаж, разбор завалов."
+  },
+  {
+    "id": "eq-ks-55713-klintsy",
+    "slug": "ks-55713-klintsy",
+    "name": "Автокран КС-55713-3К «Клинцы», 25 т",
+    "brand": "Клинцы",
+    "model": "КС-55713-3К",
+    "categorySlug": "truck-cranes",
+    "price": { "amount": 15000, "currency": "RUB", "unit": "shift", "hourly": 1875, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/ks-55713-klintsy.jpg",
+    "specs": [
+      { "label": "Грузоподъёмность", "value": "25", "unit": "т" },
+      { "label": "Длина стрелы", "value": "22", "unit": "м" }
+    ],
+    "description": "Манёвренный автокран на шасси Урал для погрузочно-разгрузочных и строительно-монтажных работ в стеснённых условиях."
+  },
+  {
+    "id": "eq-hbm-nobas-bg190",
+    "slug": "hbm-nobas-bg190",
+    "name": "Автогрейдер HBM-Nobas BG190 TA-4",
+    "brand": "HBM-Nobas",
+    "model": "BG190 TA-4",
+    "categorySlug": "graders",
+    "price": { "amount": 28000, "currency": "RUB", "unit": "shift", "hourly": 3500, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/hbm-nobas-bg190.jpg",
+    "specs": [
+      { "label": "Эксплуатационная масса", "value": "19 000", "unit": "кг" },
+      { "label": "Габариты отвала", "value": "3360×630", "unit": "мм" },
+      { "label": "Минимальный радиус поворота", "value": "7.5", "unit": "м" },
+      { "label": "Тип привода", "value": "6×6", "unit": "" }
+    ],
+    "description": "Полноприводный автогрейдер с поворотом отвала на 360° для планировки и профилирования дорожного основания."
+  },
+  {
+    "id": "eq-sem-922awd",
+    "slug": "sem-922awd",
+    "name": "Автогрейдер SEM 922 AWD",
+    "brand": "SEM",
+    "model": "922 AWD",
+    "categorySlug": "graders",
+    "price": { "amount": 32000, "currency": "RUB", "unit": "shift", "hourly": 4000, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/sem-922awd.jpg",
+    "specs": [
+      { "label": "Эксплуатационная масса", "value": "18 996", "unit": "кг" },
+      { "label": "Мощность двигателя", "value": "162", "unit": "кВт" },
+      { "label": "Габариты отвала", "value": "4279×607", "unit": "мм" },
+      { "label": "Тип привода", "value": "полный", "unit": "" }
+    ],
+    "description": "Полноприводный автогрейдер с тягой на все колёса — уверенная работа на снегу, песке и рыхлых грунтах."
+  },
+  {
+    "id": "eq-daewoo-novus-45m",
+    "slug": "daewoo-novus-45m",
+    "name": "Автовышка Daewoo Novus, 45 м",
+    "brand": "Daewoo",
+    "model": "Novus",
+    "categorySlug": "aerial-platforms",
+    "price": { "amount": 28000, "currency": "RUB", "unit": "shift", "hourly": 3500, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/daewoo-novus-45m.jpg",
+    "specs": [
+      { "label": "Высота подъёма", "value": "45", "unit": "м" },
+      { "label": "Грузоподъёмность", "value": "500", "unit": "кг" },
+      { "label": "Угол поворота", "value": "360", "unit": "°" }
+    ],
+    "description": "Телескопическая автовышка с высотой подъёма до 45 м для высотных строительных и монтажных работ."
+  },
+  {
+    "id": "eq-hyundai-hd78-18m",
+    "slug": "hyundai-hd78-18m",
+    "name": "Автовышка Hyundai HD78, 18 м",
+    "brand": "Hyundai",
+    "model": "HD78",
+    "categorySlug": "aerial-platforms",
+    "price": { "amount": 22000, "currency": "RUB", "unit": "shift", "hourly": 2750, "from": true },
+    "availability": "in_stock",
+    "image": "/images/catalog/hyundai-hd78-18m.jpg",
+    "specs": [
+      { "label": "Высота подъёма", "value": "18", "unit": "м" },
+      { "label": "Грузоподъёмность", "value": "0.2–0.8", "unit": "т" }
+    ],
+    "description": "Компактная автовышка для строительных и монтажных работ на высоте до 18 метров."
+  },
+  {
+    "id": "eq-mercedes-actros-pump",
+    "slug": "mercedes-actros-pump",
+    "name": "Автобетононасос Mercedes Actros, 32 м",
+    "brand": "Mercedes-Benz",
+    "model": "Actros",
+    "categorySlug": "concrete-pumps",
+    "price": { "amount": 0, "currency": "RUB", "unit": "shift" },
+    "availability": "on_request",
+    "image": "/images/catalog/mercedes-actros-pump.jpg",
+    "specs": [
+      { "label": "Эксплуатационная масса", "value": "33 320", "unit": "кг" },
+      { "label": "Высота подачи", "value": "32", "unit": "м" },
+      { "label": "Производительность", "value": "120", "unit": "м³/ч" }
+    ],
+    "description": "Z-образная четырёхсекционная стрела с вылетом 32 м для подачи бетона в труднодоступные места."
+  },
+  {
+    "id": "eq-mercedes-putzmeister-pump",
+    "slug": "mercedes-putzmeister-pump",
+    "name": "Автобетононасос Mercedes Putzmeister, 28 м",
+    "brand": "Mercedes-Benz",
+    "model": "Putzmeister",
+    "categorySlug": "concrete-pumps",
+    "price": { "amount": 0, "currency": "RUB", "unit": "shift" },
+    "availability": "on_request",
+    "image": "/images/catalog/mercedes-putzmeister-pump.jpg",
+    "specs": [
+      { "label": "Эксплуатационная масса", "value": "26 000", "unit": "кг" },
+      { "label": "Высота подачи", "value": "28", "unit": "м" },
+      { "label": "Дальность подачи", "value": "23.4", "unit": "м" }
+    ],
+    "description": "Автобетононасос немецкого производства с производительностью 110 м³/ч для монолитных конструкций, мостов и тоннелей."
+  }
+]
