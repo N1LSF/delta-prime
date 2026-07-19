@@ -62,8 +62,8 @@ export interface SocialLink {
 
 /** Брендовые иконки-ссылки (шапка + подвал). */
 export const SOCIAL_LINKS: SocialLink[] = [
-  { label: 'MAX', icon: '/images/icons/max.svg', href: 'https://заглушка.com' },
-  { label: 'Telegram', icon: '/images/icons/telegram.svg', href: 'https://заглушка.com' },
+  { label: 'MAX', icon: '/images/icons/max.svg', href: 'https://max.ru/+79312626666' },
+  { label: 'Telegram', icon: '/images/icons/telegram.svg', href: 'https://t.me/PavelDeltaP' },
 ];
 
 /** Основные контакты для краткого блока (подвал и т.п.). */
