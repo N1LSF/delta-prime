@@ -50,7 +50,7 @@ export const MESSENGERS: Messenger[] = [
   { kind: 'whatsapp', label: 'WhatsApp', href: 'https://wa.me/79312626666' },
   { kind: 'telegram', label: 'Telegram — Павел', href: 'https://t.me/PavelDeltaP' },
   { kind: 'telegram', label: 'Telegram — Игорь', href: 'https://t.me/igorspb92' },
-  { kind: 'max', label: 'MAX', href: 'https://max.ru/+79312626666' },
+  { kind: 'max', label: 'MAX', href: 'https://max.ru/u/f9LHodD0cOLWW1Fw9OVh1IvRghNhqQh9Csn6Z7LXoGZYV5O21WymM0vNZRs' },
 ];
 
 export interface SocialLink {
@@ -62,7 +62,7 @@ export interface SocialLink {
 
 /** Брендовые иконки-ссылки (шапка + подвал). */
 export const SOCIAL_LINKS: SocialLink[] = [
-  { label: 'MAX', icon: '/images/icons/max.svg', href: 'https://max.ru/+79312626666' },
+  { label: 'MAX', icon: '/images/icons/max.svg', href: 'https://max.ru/u/f9LHodD0cOLWW1Fw9OVh1IvRghNhqQh9Csn6Z7LXoGZYV5O21WymM0vNZRs' },
   { label: 'Telegram', icon: '/images/icons/telegram.svg', href: 'https://t.me/PavelDeltaP' },
 ];
 

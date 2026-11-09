@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from 'next';
-import { Manrope } from 'next/font/google';
+import localFont from 'next/font/local';
 import './globals.css';
 import { Navbar } from '@/components/blocks/Navbar';
 import { Footer } from '@/components/blocks/Footer';
@@ -14,9 +14,10 @@ import {
   SITE_URL,
 } from '@/lib/seo';
 
-const manrope = Manrope({
-  subsets: ['latin', 'cyrillic'],
-  weight: ['400', '500', '600', '700', '800'],
+const manrope = localFont({
+  src: './fonts/manrope-variable.ttf',
+  weight: '200 800',
+  style: 'normal',
   display: 'swap',
   variable: '--font-manrope',
 });
