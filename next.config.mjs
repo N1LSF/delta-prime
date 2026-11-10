@@ -1,6 +1,5 @@
-import type { NextConfig } from 'next';
-
-const nextConfig: NextConfig = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   reactStrictMode: true,
   // SSG-архитектура: статические маршруты App Router пререндерятся при `next build`.
   // Для полностью статического экспорта (без Node-сервера) на этапе деплоя можно включить:

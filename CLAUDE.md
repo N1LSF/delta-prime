@@ -27,7 +27,7 @@ There is no test suite.
 ## Architecture
 
 ### Rendering model
-Everything is statically prerendered. Catalog detail pages (`src/app/catalog/[slug]/page.tsx`) use `generateStaticParams`. `next.config.ts` keeps Node-server flexibility (no `output: 'export'` yet) — a comment there documents how to switch to a fully static export if needed.
+Everything is statically prerendered. Catalog detail pages (`src/app/catalog/[slug]/page.tsx`) use `generateStaticParams`. `next.config.mjs` keeps Node-server flexibility (no `output: 'export'` yet) — a comment there documents how to switch to a fully static export if needed.
 
 ### Design-token system (the core convention)
 `src/app/globals.css` is the single source of styling truth, built on Tailwind v4's `@theme`:
